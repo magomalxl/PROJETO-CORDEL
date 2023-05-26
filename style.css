@@ -8,8 +8,16 @@ header{
     
     background: black fixed;
     color: white;
-    padding: 50px;
-    padding-left: 80px;
-    padding-right: 80px;
-    margin: -10px;
+    padding-top: 80PX;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 16PX;
+    margin: -90px;
+    margin-bottom: 16PX;
+}
+section> P{
+   
+    margin-left: -4EM;
+    margin-right: 300PX;
+    background-position: left left;
 }
